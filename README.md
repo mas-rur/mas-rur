@@ -1,79 +1,48 @@
-<h1 align="center">Hi, I'm Masrur Ahmmed 👋</h1>
-<h3 align="center">Blockchain Developer • Frontend Designer • AI Enthusiast</h3>
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="400">
+      <img src="./assets/ascii-portrait.svg" width="380" alt="ASCII portrait of mas-rur" />
+    </td>
+    <td align="center" width="540">
+      <img src="./assets/ascii-wordmark.svg" width="520" alt="MASRUR ASCII wordmark" />
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/contribution-terminal.svg" width="620" alt="mas-rur GitHub contribution terminal" />
+
+</div>
+
+<br/>
+
+<h1 align="center">Hi, I'm mas-rur 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+decentralized+apps+that+actually+look+good;Blockchain+%2B+Frontend+%2B+AI;Based+in+Dhaka%2C+Bangladesh" alt="Typing SVG" />
+  <!-- one-line tagline about what you do, e.g. "Backend engineer building fast, reliable APIs" -->
 </p>
 
+---
+
+### 🧰 Tech Stack
 <p align="center">
-  <a href="mailto:Masrurxyz@outlook.com"><img src="https://img.shields.io/badge/Email-Masrurxyz%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-informational?style=flat" />
+  <!-- swap these for the badges that match your stack -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-I'm a full-stack engineer and blockchain architect who bridges AI-powered systems with decentralized infrastructure — and designs the interfaces that make them usable. My work spans the full product lifecycle: from whitepaper and brand concept to production deployment.
-
-- 🔗 Designing and building **custom blockchain applications** (wallets, smart contracts, decentralized services)
-- 🎨 **Frontend & brand design** — clean, minimal UI systems that don't get in the user's way
-- 🤖 Integrating **AI models** into web and blockchain products (prompt engineering, automation workflows)
-- 📈 **SEO** — getting products found on Google, not just built well
-- 🗣️ Comfortable across the non-technical side too: public speaking, negotiation, and client relationship management
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,figma,solidity,nodejs,python,git,github" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mas-rur&show_icons=true&theme=dark&hide_border=true" alt="mas-rur's GitHub stats" width="410" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mas-rur&theme=dark&hide_border=true" alt="mas-rur's GitHub streak" width="410" />
 </p>
 
-**Blockchain:** Solidity · Smart Contracts · Wallet Architecture · Web3 Integration
-**Frontend:** React · Next.js · Tailwind CSS · Responsive & Minimal UI Design
-**AI:** Prompt Engineering · AI-driven Automation Workflows
-**Other:** Brand Design · SEO · Real-time Data (WebSocket) Integration
-
----
-
-### 💼 Experience
-
-**Lead Researcher & Founder** — *Mecozx* `Oct 2025 – Present`
-Architecting end-to-end web infrastructure that integrates AI models into decentralized blockchain services, and maintaining the tech frameworks that keep production workflows running smoothly.
-
-**Core Developer** — *AERO* `Jan 2024 – Sept 2025`
-Built a production-ready cryptocurrency wallet with multi-layer seed phrase protection, and engineered real-time data integration via TradingView streaming sockets for high-frequency chart and trade analysis.
-
-**Blockchain & AI Intern** — *Bohubrihi* `Jul 2020 – Dec 2020`
-Designed automation workflows bridging AI-driven data insights with blockchain ledger systems, and built structured input protocols for consistent, production-grade AI responses.
-
----
-
-### 🎓 Education
-
-**Higher Secondary School Certificate** — Science `Jan 2021 – Dec 2023`
-**Blockchain & AI Internship Program** — Bohubrihi `Jul 2020 – Dec 2020`
-
----
-
-### 📫 Let's Connect
-
-<p>
-  <a href="mailto:Masrurxyz@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+### 🔗 Connect
+<p align="center">
+  <!-- replace # with your real links -->
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p align="center"><i>Open to blockchain, frontend, and AI-integration projects.</i></p>
-
-
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                  
