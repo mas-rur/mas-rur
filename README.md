@@ -1,12 +1,13 @@
 <div align="center">
 
-```bash
+```
 ███╗   ███╗ █████╗ ███████╗██████╗ ██╗   ██╗██████╗ 
 ████╗ ████║██╔══██╗██╔════╝██╔══██╗██║   ██║██╔══██╗
 ██╔████╔██║███████║███████╗██████╔╝██║   ██║██████╔╝
 ██║╚██╔╝██║██╔══██║╚════██║██╔══██╗██║   ██║██╔══██╗
 ██║ ╚═╝ ██║██║  ██║███████║██║  ██║╚██████╔╝██║  ██║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
 ```bash
 > whoami
@@ -14,9 +15,20 @@ Masrur Ahmmed  ·  Blockchain Developer  ·  Frontend & Brand Designer
 
 > cat status.txt
 ● Available for work  |  Building mecozx  |  Shipping since 2019
+```
 
-$ cat \~/about.md
+[![Website](https://img.shields.io/badge/Website-masrur.iam.bd-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://masrur.iam.bd)
+[![Status](https://img.shields.io/badge/Status-Online-00FF9C?style=for-the-badge)](https://masrur.iam.bd)
 
+</div>
+
+---
+
+```bash
+$ cat ~/about.md
+```
+
+```
 I build the chain & the brand.
 
 Blockchain Developer with 5+ years of experience designing and deploying 
@@ -28,9 +40,15 @@ for true Web3 self-custody.
 
 Chains I ship on:
 → Ethereum  ·  BNB Chain  ·  Polygon  ·  TON  ·  Base  ·  Arbitrum
+```
 
+---
+
+```bash
 $ ls skills/
+```
 
+```
 blockchain/          frontend/            design/              tools/
 ├── Solidity         ├── React            ├── Figma            ├── Git
 ├── FunC             ├── Next.js          ├── Brand Identity   ├── Docker
@@ -38,9 +56,15 @@ blockchain/          frontend/            design/              tools/
 ├── Ethers.js        ├── Tailwind CSS                          └── Node.js
 ├── Hardhat          └── Redux
 └── Foundry
+```
 
+---
+
+```bash
 $ ls projects/ --featured
+```
 
+```
 📁  mecozx-companion
     └─ Companion app for the world’s first blockchain-based T-OLED card
        → https://github.com/mas-rur/mecozx-companion
@@ -56,9 +80,40 @@ $ ls projects/ --featured
 📁  Pay3-Landing
     └─ Landing experience for Pay3
        → https://github.com/mas-rur/Pay3-Landing
+```
 
+---
+
+```bash
+$ neofetch
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mas-rur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-rur&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" height="170"/>
+</div>
+
+---
+
+```bash
 $ cat contact.txt
+```
 
+```
 🌐  Website     →  https://masrur.iam.bd
 💼  Open to     →  Smart contracts · Web3 products · Brand design
 ⚡  Reply time  →  Within 24 hours
+```
+
+---
+
+<div align="center">
+
+```bash
+$ echo "Building on-chain & on-brand since 2019"
+Building on-chain & on-brand since 2019
+
+$ _
+```
+
+</div>
