@@ -84,10 +84,6 @@ $ ls projects/ --featured
 
 ---
 
-```bash
-$ neofetch
-```
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mas-rur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-rur&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" height="170"/>
